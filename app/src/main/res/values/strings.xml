@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">inventoryandroid_10</string>
+    <string name="hint_doc">Documento</string>
+    <string name="hint_nom">Nombre</string>
+    <string name="hint_fecha">dd-mm-aaaa</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_telefono">Telefono</string>
+
+    <string name="hint_doc_p">Documento</string>
+    <string name="hint_nom_p">Nombre</string>
+    <string name="hint_fecha_p">dd-mm-aaaa</string>
+    <string name="hint_correo_p">Correo</string>
+    <string name="hint_telefono_p">Telefono</string>
+    <string name="hint_direccion_p">Direccion</string>
+    <string name="hint_producto_p">Producto</string>
+
+</resources>
